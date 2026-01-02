@@ -1,0 +1,307 @@
+
+> my-v0-project@0.1.0 build C:\Users\ADMIN\Downloads\20-12-25 (1)
+> next build
+
+  ▲ Next.js 14.2.35
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+<w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (130kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+ ✓ Compiled successfully
+   Skipping validation of types
+   Linting ...
+   Collecting page data ...
+ ⚠ Using edge runtime on a page currently disables static generation for that page
+   Generating static pages (0/57) ...
+   Generating static pages (14/57) 
+[v0] Searching for citizenship program with slug: stkitts
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: stkitts
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: antigua
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: antigua
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: turkiye
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: turkiye
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+   Generating static pages (28/57) 
+   Generating static pages (42/57) 
+[v0] Searching for citizenship program with slug: saint-lucia
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: saint-lucia
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: grenada
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: grenada
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: dominica
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: dominica
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: vanuatu
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: vanuatu
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: egypt
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: egypt
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: nauru
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: nauru
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+ ✓ Generating static pages (57/57)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                   Size     First Load JS
+┌ ○ /                                         9.47 kB         229 kB
+├ ○ /_not-found                               872 B          88.2 kB
+├ ○ /about                                    1.79 kB         201 kB
+├ ○ /admin/brochure-leads                     2.25 kB         211 kB
+├ ƒ /admin/dashboard                          12.5 kB         213 kB
+├ ○ /admin/login                              4.18 kB         155 kB
+├ ƒ /admin/users                              3.28 kB         163 kB
+├ ƒ /api/admin/brochure-leads/[id]            0 B                0 B
+├ ƒ /api/admin/contact/[id]                   0 B                0 B
+├ ƒ /api/admin/newsletter/[id]                0 B                0 B
+├ ƒ /api/brochure-leads                       0 B                0 B
+├ ƒ /api/consultations                        0 B                0 B
+├ ƒ /api/consultations/[id]                   0 B                0 B
+├ ƒ /apple-icon                               0 B                0 B
+├ ○ /blog                                     260 B           200 kB
+├ ● /blog/[slug]                              259 B           200 kB
+├   ├ /blog/top-5-citizenship-programs-2024
+├   ├ /blog/portugal-golden-visa-guide
+├   ├ /blog/tax-optimization-strategies
+├   └ [+3 more paths]
+├ ○ /contact                                  1.98 kB         201 kB
+├ ○ /faq                                      2.74 kB         202 kB
+├ ○ /gallery                                  970 B           200 kB
+├ ƒ /icon                                     0 B                0 B
+├ ○ /privacy                                  260 B           200 kB
+├ ○ /privacy-policy                           970 B           200 kB
+├ ○ /process                                  260 B           200 kB
+├ ○ /program-comparison                       3.75 kB         226 kB
+├ ○ /resources                                260 B           200 kB
+├ ○ /services                                 3.23 kB         203 kB
+├ ○ /services/citizenship                     260 B           200 kB
+├ ● /services/citizenship/[slug]              170 B           231 kB
+├   ├ /services/citizenship/antigua
+├   ├ /services/citizenship/stkitts
+├   ├ /services/citizenship/dominica
+├   └ [+6 more paths]
+├ ○ /services/citizenship/antigua             260 B           200 kB
+├ ○ /services/citizenship/antigua/learn-more  193 B           101 kB
+├ ○ /services/citizenship/malta               260 B           200 kB
+├ ○ /services/citizenship/malta/learn-more    193 B           101 kB
+├ ○ /services/citizenship/stkitts             260 B           200 kB
+├ ○ /services/citizenship/turkiye             260 B           200 kB
+├ ○ /services/citizenship/view-all            260 B           200 kB
+├ ○ /services/real-estate                     260 B           200 kB
+├ ○ /services/residency                       260 B           200 kB
+├ ● /services/residency/[slug]                170 B           231 kB
+├   ├ /services/residency/canada
+├   ├ /services/residency/uae
+├   ├ /services/residency/greece
+├   └ [+6 more paths]
+├ ○ /services/residency/uae                   181 B          96.2 kB
+├ ○ /services/residency/usa                   181 B          96.2 kB
+├ ○ /services/residency/view-all              260 B           200 kB
+├ ○ /services/tax                             260 B           200 kB
+├ ○ /team                                     260 B           200 kB
+└ ○ /terms-and-conditions                     970 B           200 kB
++ First Load JS shared by all                 87.3 kB
+  ├ chunks/017f4455-e74337641d9bc5cc.js       53.6 kB
+  ├ chunks/832-db9a1454e92fc076.js            31.7 kB
+  └ other shared chunks (total)               1.97 kB
+
+
+ƒ Middleware                                  73.4 kB
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses getStaticProps)
+ƒ  (Dynamic)  server-rendered on demand
+

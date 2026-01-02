@@ -1,0 +1,258 @@
+
+> my-v0-project@0.1.0 build C:\Users\ADMIN\Downloads\20-12-25 (1)
+> next build
+
+  ▲ Next.js 14.2.35
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Skipping validation of types
+   Linting ...
+   Collecting page data ...
+   Generating static pages (0/59) ...
+   Generating static pages (14/59) 
+[v0] Searching for citizenship program with slug: antigua
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: antigua
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: stkitts
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: stkitts
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: turkiye
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: turkiye
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+
+Error occurred prerendering page "/apple-icon". Read more: https://nextjs.org/docs/messages/prerender-error
+
+TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at fileURLToPath (node:internal/url:1505:12)
+    at file:///C:/Users/ADMIN/Downloads/20-12-25%20(1)/node_modules/.pnpm/next@14.2.35_react-dom@19.2.3_react@19.2.3__react@19.2.3/node_modules/next/dist/compiled/@vercel/og/index.node.js:18988:32
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async Object.start (C:\Users\ADMIN\Downloads\20-12-25 (1)\.next\server\chunks\7039.js:1:27833)
+   Generating static pages (29/59) 
+
+Error occurred prerendering page "/icon". Read more: https://nextjs.org/docs/messages/prerender-error
+
+TypeError: Invalid URL
+    at new URL (node:internal/url:818:25)
+    at fileURLToPath (node:internal/url:1505:12)
+    at file:///C:/Users/ADMIN/Downloads/20-12-25%20(1)/node_modules/.pnpm/next@14.2.35_react-dom@19.2.3_react@19.2.3__react@19.2.3/node_modules/next/dist/compiled/@vercel/og/index.node.js:18988:32
+    at ModuleJob.run (node:internal/modules/esm/module_job:274:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async Object.start (C:\Users\ADMIN\Downloads\20-12-25 (1)\.next\server\chunks\7039.js:1:27833)
+   Generating static pages (44/59) 
+[v0] Searching for citizenship program with slug: dominica
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: dominica
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: grenada
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: grenada
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: saint-lucia
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: saint-lucia
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: egypt
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: egypt
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: vanuatu
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: vanuatu
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: nauru
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+[v0] Searching for citizenship program with slug: nauru
+[v0] Available slugs: [
+  'antigua',
+  'stkitts',
+  'dominica',
+  'grenada',
+  'saint-lucia',
+  'vanuatu',
+  'turkiye',
+  'egypt',
+  'nauru'
+]
+ ✓ Generating static pages (59/59)
+
+> Export encountered errors on following paths:
+	/apple-icon/route: /apple-icon
+	/icon/route: /icon
+ ELIFECYCLE  Command failed with exit code 1.
